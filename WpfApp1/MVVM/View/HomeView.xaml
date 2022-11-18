@@ -72,7 +72,7 @@
                 </Style>
                 
             </StackPanel.Resources>
-            <TextBlock Text="Most Wtched"
+            <TextBlock Text="Most Watched"
                    Foreground="White"
                    FontSize="28"
                    HorizontalAlignment="Left"/>
